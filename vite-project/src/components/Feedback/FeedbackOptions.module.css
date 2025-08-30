@@ -1,0 +1,36 @@
+.feedbackOptions {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+.button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #4caf50;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    min-width: 80px;
+}
+.button:hover {
+    background-color: #45a049;
+
+}
+.button:active {
+    transform: translateY(1px);
+}
+.resetButton{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #b61509;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    min-width: 80px;
+}

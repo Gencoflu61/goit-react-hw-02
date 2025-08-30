@@ -1,0 +1,15 @@
+.notification{
+    background-color: #fff3cd;
+    border: 1px solid #ffeaa7;
+    border-radius: 8px;
+    padding: 25px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.message {
+    margin: 0;
+    color: #856404;
+    font-size: 18px;
+    font-weight: 500;
+}
